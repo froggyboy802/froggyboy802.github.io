@@ -1,7 +1,4 @@
 <img src="https://i.ytimg.com/vi/uROzuNSb3Cw/maxresdefault.jpg"/><img width="1280" height="720" />
-
-
-
 # Froggyboy802.github.io — A clone of duckmath
 
 
