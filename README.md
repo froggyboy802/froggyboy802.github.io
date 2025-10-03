@@ -1,4 +1,4 @@
-<img src="<img src="https://i.ytimg.com/vi/uROzuNSb3Cw/maxresdefault.jpg"/><img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/80d20c85-08ce-4097-9f8c-7fed95531b8d" />
+<img src="<img src="https://i.ytimg.com/vi/uROzuNSb3Cw/maxresdefault.jpg"/><img width="1280" height="720" />
 " width="60px"  align="left" />
 
 
